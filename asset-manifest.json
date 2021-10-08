@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DevResumeGenerator/static/css/main.a617e044.chunk.css",
+    "main.js": "/DevResumeGenerator/static/js/main.1cabbe95.chunk.js",
+    "main.js.map": "/DevResumeGenerator/static/js/main.1cabbe95.chunk.js.map",
+    "runtime-main.js": "/DevResumeGenerator/static/js/runtime-main.f1d32446.js",
+    "runtime-main.js.map": "/DevResumeGenerator/static/js/runtime-main.f1d32446.js.map",
+    "static/js/2.6b66ba43.chunk.js": "/DevResumeGenerator/static/js/2.6b66ba43.chunk.js",
+    "static/js/2.6b66ba43.chunk.js.map": "/DevResumeGenerator/static/js/2.6b66ba43.chunk.js.map",
+    "index.html": "/DevResumeGenerator/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/DevResumeGenerator/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6b66ba43.chunk.js.LICENSE.txt": "/DevResumeGenerator/static/js/2.6b66ba43.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/DevResumeGenerator/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1d32446.js",
+    "static/js/2.6b66ba43.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.1cabbe95.chunk.js"
+  ]
+}
