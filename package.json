@@ -1,5 +1,6 @@
 {
   "name": "dev-resume-generator",
+  "homepage": "https://santosh1997.github.io/DevResumeGenerator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
